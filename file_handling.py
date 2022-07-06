@@ -1,0 +1,11 @@
+# file1 = open("demo.txt", "r")
+# content = file1.read()
+# print(content)
+# file1.close()
+
+file = open("xyz.txt", "r+")
+# file.write("hi!... welcome")
+# file.write("smile please")
+content=file.read()
+print(content)
+file.close()
