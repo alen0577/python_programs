@@ -1,3 +1,1 @@
-Hai Alen !
-How are you?
-Welcome to this world.
+hai, this is a sample program.

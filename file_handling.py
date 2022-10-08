@@ -3,9 +3,14 @@
 # print(content)
 # file1.close()
 
-file = open("xyz.txt", "r+")
-# file.write("hi!... welcome")
-# file.write("smile please")
-content=file.read()
+# file = open("xyz.txt", "r+")
+# # file.write("hi!... welcome")
+# # file.write("smile please")
+# content=file.read()
+# print(content)
+# file.close()
+
+file = open('demo.txt', 'w')
+content = file.write("hai, this is a sample program.")
 print(content)
 file.close()
